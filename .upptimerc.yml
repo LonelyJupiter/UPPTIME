@@ -2,27 +2,27 @@ owner: LonelyJupiter # GitHub username
 repo: UPPTIME # GitHub repository name
 sites: # List of endpoints to track
   - name: la
-    url: https://la.sf-auto.cf
+    url:  $LA
   - name: jp
-    url: https://jp.sf-auto.tk
+    url: $JP
   - name: jpvir
-    url: https://jpvir.sf-auto.tk
+    url: $JPVIR
   - name: sg
-    url: https://v4.trap.eu.org
+    url: $SG
   - name: hk1
-    url: https://hkv4.wink.ga
+    url: $HK1
   - name: hk2
-    url: https://hk2v4.wink.ga
+    url: $HK2
   - name: cac
-    url: https://niubi.tk
+    url: $CAC
   - name: kr
-    url: https://oracle.sf-auto.tk
+    url: $KR
   - name: eu1
-    url: https://euserv1.niubi.tk
+    url: $EU1
   - name: eu2
-    url: https://euserv2.niubi.tk
+    url: $EU2
   - name: eu3
-    url: https://euserv3.niubi.tk
+    url: $EU3
     
 assignees: # Users to assign downtime issues (optional)
   - LonelyJupiter
