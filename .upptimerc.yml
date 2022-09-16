@@ -33,4 +33,5 @@ status-website: # Status website (optional)
   name: 全球服务器状态 # Status website title
   theme: dark
   logoUrl: https://preston.cf/preston.gif
+  favicon: https://preston.cf/preston.gif
 
