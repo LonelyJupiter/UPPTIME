@@ -2,7 +2,7 @@ owner: LonelyJupiter # GitHub username
 repo: UPPTIME # GitHub repository name
 sites: # List of endpoints to track
   - name: la
-    url:  $LA
+    url: $LA
   - name: jp
     url: $JP
   - name: jpvir
