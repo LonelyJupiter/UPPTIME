@@ -23,8 +23,12 @@ sites: # List of endpoints to track
     url: $EU1
   - name: eu2
     url: $EU2
+    expectedStatusCodes:
+      - 403
   - name: eu3
     url: $EU3
+    expectedStatusCodes:
+      - 403
     
 assignees: # Users to assign downtime issues (optional)
   - LonelyJupiter
