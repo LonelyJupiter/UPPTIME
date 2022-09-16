@@ -7,8 +7,6 @@ sites: # List of endpoints to track
     url: $JP
   - name: jpvir
     url: $JPVIR
-    check: "tcp-ping"
-    port: 443
   - name: sg
     url: $SG
   - name: hk1
