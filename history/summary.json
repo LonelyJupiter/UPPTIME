@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jp",
     "status": "down",
-    "uptime": "3.23%",
-    "uptimeDay": "3.23%",
-    "uptimeWeek": "3.23%",
-    "uptimeMonth": "3.23%",
-    "uptimeYear": "3.23%",
+    "uptime": "2.39%",
+    "uptimeDay": "2.39%",
+    "uptimeWeek": "2.39%",
+    "uptimeMonth": "2.39%",
+    "uptimeYear": "2.39%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-16": 45
+      "2022-09-16": 61
     }
   },
   {
@@ -42,18 +42,20 @@
     "url": "$JPVIR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jpvir",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
     "time": 676,
     "timeDay": 676,
     "timeWeek": 676,
     "timeMonth": 676,
     "timeYear": 676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-16": 0
+    }
   },
   {
     "name": "sg",
@@ -97,18 +99,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hk2",
     "status": "down",
-    "uptime": "0.39%",
-    "uptimeDay": "0.39%",
-    "uptimeWeek": "0.39%",
-    "uptimeMonth": "0.39%",
-    "uptimeYear": "0.39%",
+    "uptime": "0.29%",
+    "uptimeDay": "0.29%",
+    "uptimeWeek": "0.29%",
+    "uptimeMonth": "0.29%",
+    "uptimeYear": "0.29%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-16": 44
+      "2022-09-16": 61
     }
   },
   {
@@ -117,11 +119,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cac",
     "status": "up",
-    "uptime": "34.95%",
-    "uptimeDay": "34.95%",
-    "uptimeWeek": "34.95%",
-    "uptimeMonth": "34.95%",
-    "uptimeYear": "34.95%",
+    "uptime": "52.53%",
+    "uptimeDay": "52.53%",
+    "uptimeWeek": "52.53%",
+    "uptimeMonth": "52.53%",
+    "uptimeYear": "52.53%",
     "time": 367,
     "timeDay": 367,
     "timeWeek": 367,
@@ -155,11 +157,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "eu1",
     "status": "up",
-    "uptime": "53.54%",
-    "uptimeDay": "53.54%",
-    "uptimeWeek": "53.54%",
-    "uptimeMonth": "53.54%",
-    "uptimeYear": "53.54%",
+    "uptime": "66.11%",
+    "uptimeDay": "66.11%",
+    "uptimeWeek": "66.11%",
+    "uptimeMonth": "66.11%",
+    "uptimeYear": "66.11%",
     "time": 598,
     "timeDay": 598,
     "timeWeek": 598,
@@ -175,18 +177,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "eu2",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-16": 44
+      "2022-09-16": 61
     }
   },
   {
@@ -195,18 +197,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "eu3",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-16": 44
+      "2022-09-16": 61
     }
   }
 ]
