@@ -32,4 +32,5 @@ status-website: # Status website (optional)
   cname: www.skrr.eu.org # Custom domain CNAME
   name: 全球服务器在线状态 # Status website title
   theme: dark
+  logoUrl: https://preston.cf/preston.gif
 
