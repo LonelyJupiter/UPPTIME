@@ -29,3 +29,5 @@ assignees: # Users to assign downtime issues (optional)
 status-website: # Status website (optional)
   cname: www.skrr.eu.org # Custom domain CNAME
   name: UPPTIME # Status website title
+status-website:
+  theme: dark
