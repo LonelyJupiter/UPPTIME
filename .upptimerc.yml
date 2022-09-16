@@ -15,6 +15,8 @@ sites: # List of endpoints to track
     url: $HK2
   - name: cac
     url: $CAC
+    expectedStatusCodes:
+      - 403
   - name: kr
     url: $KR
   - name: eu1
