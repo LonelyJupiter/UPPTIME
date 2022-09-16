@@ -28,6 +28,6 @@ assignees: # Users to assign downtime issues (optional)
   - LonelyJupiter
 status-website: # Status website (optional)
   cname: www.skrr.eu.org # Custom domain CNAME
-  name: UPPTIME # Status website title
+  name: 全球服务器在线状态 # Status website title
 status-website:
   theme: dark
