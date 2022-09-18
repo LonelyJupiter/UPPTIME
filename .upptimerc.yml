@@ -1,14 +1,6 @@
 owner: LonelyJupiter # GitHub username
 repo: UPPTIME # GitHub repository name
 sites: # List of endpoints to track
-  - name: la
-    url: $LA
-  - name: jp
-    url: $JP
-  - name: jpvir
-    url: $JPVIR
-  - name: sg
-    url: $SG
   - name: hk1
     url: $HK1
   - name: hk2
@@ -17,8 +9,10 @@ sites: # List of endpoints to track
     url: $CAC
     expectedStatusCodes:
       - 403
-  - name: kr
-    url: $KR
+  - name: jp
+    url: $JP
+  - name: sg
+    url: $SG
   - name: eu1
     url: $EU1
   - name: eu2
@@ -29,6 +23,13 @@ sites: # List of endpoints to track
     url: $EU3
     expectedStatusCodes:
       - 403
+  - name: kr
+    url: $KR
+  - name: jpvir
+    url: $JPVIR
+    maxResponseTime: 10000
+  - name: la
+    url: $LA
     
 assignees: # Users to assign downtime issues (optional)
   - LonelyJupiter
