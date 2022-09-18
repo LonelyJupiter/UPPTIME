@@ -28,6 +28,9 @@ sites: # List of endpoints to track
   - name: jpvir
     url: $JPVIR
     maxResponseTime: 10000
+    expectedStatusCodes:
+      - 0
+      - 200
   - name: kr
     url: $KR
     
