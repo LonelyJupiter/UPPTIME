@@ -29,6 +29,8 @@ sites: # List of endpoints to track
     url: $JPVIR
   - name: kr
     url: $KR
+  - name: sggu
+    url: $SGGU
     
 assignees: # Users to assign downtime issues (optional)
   - LonelyJupiter
