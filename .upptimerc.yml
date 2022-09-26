@@ -26,11 +26,16 @@ sites: # List of endpoints to track
   - name: la
     url: $LA
   - name: jpvir
+    check: "tcp-ping"
+    url: $JPVIR
+    port: $JPVIRPORT
     url: $JPVIR
   - name: kr
     url: $KR
   - name: sggu
+    check: "tcp-ping"
     url: $SGGU
+    port: $SGGUPORT
     
 assignees: # Users to assign downtime issues (optional)
   - LonelyJupiter
