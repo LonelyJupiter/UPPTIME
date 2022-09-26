@@ -27,10 +27,6 @@ sites: # List of endpoints to track
     url: $LA
   - name: jpvir
     url: $JPVIR
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: kr
     url: $KR
   - name: sggu
