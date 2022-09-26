@@ -29,7 +29,6 @@ sites: # List of endpoints to track
     check: "tcp-ping"
     url: $JPVIR
     port: $JPVIRPORT
-    url: $JPVIR
   - name: kr
     url: $KR
   - name: sggu
