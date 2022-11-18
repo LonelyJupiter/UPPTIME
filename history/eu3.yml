@@ -1,7 +1,7 @@
 url: $EU3
-status: up
-code: 403
-responseTime: 2158
-lastUpdated: 2022-11-17T23:22:50.674Z
+status: down
+code: 521
+responseTime: 373
+lastUpdated: 2022-11-18T22:31:18.275Z
 startTime: Fri Sep 16 2022 09:28:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
